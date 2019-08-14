@@ -2,6 +2,8 @@
 
 *ReQL(-like) interpreter for SQLite3*
 
+### :warning: Moved to [https://github.com/MichaelFedora/reql-bridge](https://github.com/MichaelFedora/reql-bridge) :warning: 
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/michaelfedora)
 
 ```typescript
